@@ -1,0 +1,25 @@
+{
+  "name": "kalkulator",
+  "version": "1.0.0",
+  "description": "simple website kalkulator ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyzmkyz-Tempest/Kalkulator.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "KyzmkyzTempest",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Kyzmkyz-Tempest/Kalkulator/issues"
+  },
+  "homepage": "https://github.com/Kyzmkyz-Tempest/Kalkulator#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
