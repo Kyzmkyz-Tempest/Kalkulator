@@ -1,0 +1,2 @@
+# Kalkulator
+Simple website kalkulator
